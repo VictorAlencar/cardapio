@@ -9,6 +9,9 @@
     "lint": "tsc --noEmit"
   },
   "dependencies": {
+    "@ai-sdk/google": "^4.0.102",
+    "@ai-sdk/react": "^4.0.152",
+    "ai": "^7.0.148",
     "next": "^16.4.2",
     "react": "^19.3.1",
     "react-dom": "^19.3.1"
